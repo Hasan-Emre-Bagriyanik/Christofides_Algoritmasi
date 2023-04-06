@@ -1,5 +1,5 @@
 # Christofides_Algoritmasi
-<br>
+
 ## Christofides algoritması amacı ne için kullanıldığı/kullanılabileceği ve çalışma şekli aşağıdaki gibidir:
 <br><br>
 
