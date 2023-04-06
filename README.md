@@ -1,6 +1,7 @@
 # Christofides_Algoritmasi
 <br>
-### Christofides algoritması amacı ne için kullanıldığı/kullanılabileceği ve çalışma şekli aşağıdaki gibidir:<br><br>
+### Christofides algoritması amacı ne için kullanıldığı/kullanılabileceği ve çalışma şekli aşağıdaki gibidir:
+<br><br>
 
 Christofides algoritması, Euler döngüsü bulunmayan ağırlıklı bir graf için yaklaşık bir çözüm bulmak için kullanılan bir algoritmadır. Bu algoritma, kısmen Hamilton çevresi bulunan ağırlıklı bir grafda, minimum ağırlıklı Hamilton çevresini bulmak için kullanılabilecek bir yaklaşık algoritmadır.
 
