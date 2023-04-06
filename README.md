@@ -1,6 +1,6 @@
 # Christofides_Algoritmasi
 <br>
-###Christofides algoritması amacı ne için kullanıldığı/kullanılabileceği ve çalışma şekli aşağıdaki gibidir:
+## Christofides algoritması amacı ne için kullanıldığı/kullanılabileceği ve çalışma şekli aşağıdaki gibidir:
 <br><br>
 
 Christofides algoritması, Euler döngüsü bulunmayan ağırlıklı bir graf için yaklaşık bir çözüm bulmak için kullanılan bir algoritmadır. Bu algoritma, kısmen Hamilton çevresi bulunan ağırlıklı bir grafda, minimum ağırlıklı Hamilton çevresini bulmak için kullanılabilecek bir yaklaşık algoritmadır.
@@ -19,7 +19,7 @@ Christofides algoritması, birçok problemin pratik çözümleri için kullanıl
 <br><br><br>
 
 
-###Christofides algoritması calışma zamanı analizi ve En iyi, En Kötü, Ortalama sınırları açıklamalı olarak belirtilecektir. Sadece sınır belirtilmeyecektir, nasıl bulunduğu anlatılacaktır:
+## Christofides algoritması calışma zamanı analizi ve En iyi, En Kötü, Ortalama sınırları açıklamalı olarak belirtilecektir. Sadece sınır belirtilmeyecektir, nasıl bulunduğu anlatılacaktır:
 <br>
 
 Christofides algoritmasının çalışma zamanı, minimum ağırlıklı çiftler eşleştirilmesi için kullanılan Edmonds algoritmasının çalışma zamanı O(EV^2) ve Euler döngüsünün bulunması için kullanılan algoritmanın çalışma zamanı O(E+VlogV)'dir. Hamilton yolu oluşturma adımı ise en kötü durumda O(V^2)'dir. Toplam çalışma zamanı O(EV^2 + E + VlogV + V^2) olarak hesaplanabilir. Ancak, Euler döngüsü ve Hamilton yolu oluşturma adımları yaklaşık olarak yapılır, bu nedenle algoritmanın çalışma zamanı pratikte genellikle O(EVlogV)'dir.
